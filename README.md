@@ -6,6 +6,6 @@ A full-stack engineer's job is to work on both the front and back ends of softwa
 ## Below Learning Paths We have under Full Stack Engineer 
 
 #### 1.Java Full Stack Engineer  [Click here to start this Journey](https://github.com/vasuyepuru/Full-Stack-Engineer/blob/main/Java%20FSE.md)
-#### 2.Dot Net Full Stack Engineer [Click here to start this Journey](https://github.com/vasuyepuru/Full-Stack-Engineer/blob/main/Java%20FSE.md)
-#### 3.Python Full Stack Engineer [Click here to start this Journey](https://github.com/vasuyepuru/Full-Stack-Engineer/blob/main/Java%20FSE.md)
+#### 2.Dot Net Full Stack Engineer [Click here to start this Journey](https://github.com/vasuyepuru/Full-Stack-Engineer/blob/main/DotNet%20FSE.md)
+#### 3.Python Full Stack Engineer [Click here to start this Journey](https://github.com/vasuyepuru/Full-Stack-Engineer/blob/main/Python%20FSE.md)
 
